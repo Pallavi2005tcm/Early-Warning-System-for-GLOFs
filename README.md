@@ -1,7 +1,7 @@
-🌊 Jeevan Sethu — Early Warning System for GLOFs
-Team Jeevan Sethu | Internal SIH 2025 — 3rd Place
+🌊 Jeevan Setu — Early Warning System for GLOFs
+Team Jeevan Setu | Internal SIH 2025 — 3rd Place
 ##Overview:
-Jeevan Sethu is a disaster-tech solution designed to provide early warnings for Glacial Lake Outburst Floods (GLOFs) and other flood-prone events. More than an alert app, it acts as a lifeline—delivering real-time alerts, evacuation guidance, and access to essential services, even in remote and disconnected regions.
+Jeevan Setu is a disaster-tech solution designed to provide early warnings for Glacial Lake Outburst Floods (GLOFs) and other flood-prone events. More than an alert app, it acts as a lifeline—delivering real-time alerts, evacuation guidance, and access to essential services, even in remote and disconnected regions.
 ##Technical Stack:
 - Frontend: React.js, Tailwind CSS, Chart.js, Leaflet.js
 - Backend: Node.js with Python modules for AI-based prediction
