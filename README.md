@@ -1,6 +1,15 @@
-<<<<<<< HEAD
-# GLOFS-Global-Lake-Outburst-FLoods-
-Jeevan Setu is a real-time early warning system designed to monitor Glacial Lake Outburst Flood (GLOF) risks in Himalayan regions. Developed by Team Jeevan Setu during Internal Smart India Hackathon 2025, the project secured 3rd place for its practical and field-ready approach to disaster resilience.
-=======
-# Early-Warning-System-for-GLOFs
->>>>>>> 7ba7bc24febe11807464065633ec7be76e4a9688
+Early Warning System for GLOFs — Jeevan Sethu
+
+This project builds an early warning system for Glacial Lake Outburst Floods (GLOFs) and other flood-related disasters. The goal is to provide real-time alerts, evacuation guidance, and access to essential services—even in remote areas with poor connectivity.
+
+Key features include:
+
+Interactive analytics dashboard showing live rainfall, river levels, and alerts
+
+Dynamic evacuation maps with safe, adaptable routes
+
+Nearby medical, food, and shelter services plus volunteer support
+
+Offline functionality through a Progressive Web App for access during network outages
+
+Technologies used: React.js, Tailwind CSS, Node.js, Python (for AI), MongoDB, Google Maps API, and more.
